@@ -14,6 +14,6 @@ Build a Post Smart Contract (like a tweet contract) using Solidity. Your contrac
 • Your code should be well-commented and adhere to Solidity best practices.
 
 • Send your contracts to GitHub and share the url here for 
-discussion.
+discussion..
 
 Happy coding 😊
